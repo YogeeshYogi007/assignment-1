@@ -11,7 +11,7 @@ public class Vowel_or_Not {
 			System.out.println("Entered Alphabet is a vowel");
 		} else {
 			System.out.println("Entered Alphabet is not a Vowel");
-		}
+		}            
 
 	}
 
